@@ -1,6 +1,6 @@
-https://www.youtube.com/watch?v=d6-nLrVJFw4
-
-![mainImg](https://github.com/user-attachments/assets/5edc2aea-6446-4662-a5a2-fec5733bf979)
+# 블록체인 기반 덕성여대 캠퍼스 NFT 수집 웹게임
+## 
+- url
 
 화면 설계서: https://www.figma.com/design/UlBvfPCDmaqLDQcfeIK8sG/%EB%8D%94%EC%A6%90(Duzzle)-%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C?node-id=0-1&t=NMFySkaZsvjHna4B-0
 
@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=d6-nLrVJFw4
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+https://www.youtube.com/watch?v=d6-nLrVJFw4
+
